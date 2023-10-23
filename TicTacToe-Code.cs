@@ -1,5 +1,3 @@
-﻿using System.Data.SqlTypes;
-
 class program
 {
 
