@@ -19,5 +19,4 @@ Thi s
 
 I hope this project is informative and inspiring for fellow learners in the world of object-oriented programming. If you have any suggestions or questions, please don't hesitate to get in touch. Happy coding!
 
-
-![image](https://github.com/giflames/TicTacToe-Game/assets/128517140/5e0265c7-521e-4894-aec7-52ab33edddd0)
+![Captura de tela 2023-10-23 015618](https://github.com/giflames/TicTacToe-Game/assets/128517140/ccace333-18df-4972-893b-c424db460efe)
