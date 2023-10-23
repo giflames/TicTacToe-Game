@@ -9,8 +9,6 @@ The game is a classic implementation of Tic-Tac-Toe, providing players with an o
 
 The game was developed in console application and demonstrates the use of classes to create a modular and extensible codebase. Feel free to explore the source code, provide feedback, or use it as a reference for your own OOP projects in C#.
 
-Thi s
-
 ### Features
 
 - Object-oriented using C#
